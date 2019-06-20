@@ -426,7 +426,4 @@ SELECT * FROM t_class1,t_student where t_student.class=t_class1.class
 
 
 
-
-
-
 ```
